@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeonKilgoreTrout
-- 👀 I’m interested in NLP (having current work task), CV, DL
-- 🌱 I’m currently learning how do BERT-models work
-- 💞️ I’m looking to collaborate on some DL projects
+- 👀 I’m interested in Backend, NLP, CV, DL, DA
+- 🌱 I’m currently learning how FastAPI works
+- 💞️ I’m looking to collaborate on any python projects
 - 📫 How to reach me:
 
 e-mail: superbakurman@gmail.com (I check it rarely)
